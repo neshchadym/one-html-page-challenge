@@ -18,7 +18,7 @@ The goal is to create anything you want within 1 single html file. Practice your
  4. Commit to your forked repo.
  5. Make a pull request to master from your forked repo.
  
- _* You may submit as many entries as you'd like._
+ _* You may submit as many entries as you'd  like._
  
  ## Publicity
  - [**Boing Boing** - The "One HTML Page Challenge", a great example of view-source culture](https://boingboing.net/2019/08/23/the-one-html-page-challenge.html)
