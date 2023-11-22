@@ -29,7 +29,7 @@ The goal is to create anything you want within 1 single html file. Practice your
  - [**JPEGZILLA** - findings](https://jpegzilla.com/blog/posts/20190724.html)
  - [**chenhuijing.com** - Recreating the Fool's Mate chess move with CSS Grid](https://chenhuijing.com/blog/recreating-the-fools-mate-chess-move-with-css-grid/#%F0%9F%92%BB)
 
-_If you write a blog or post about the challenge, feel free to add to the list_
+_If you write a blog or post about the challenge, feel free to add to the  list_
  
 [![Stargazers over time](https://starchart.cc/Metroxe/one-html-page-challenge.svg)](https://starchart.cc/Metroxe/one-html-page-challenge)
  
